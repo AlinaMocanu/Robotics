@@ -12,9 +12,9 @@ const int threshold = 1; // set the sensitivity
 int index = 0;
 bool checkKnock = false;
 
-unsigned int knockDelay = 0;
-unsigned int noteDelay = 0;
-unsigned int knockInterval = 5000;
+unsigned long int knockDelay = 0;
+unsigned long int noteDelay = 0;
+unsigned long int knockInterval = 5000;
 
 
 const int songspeed = 1.5; 
