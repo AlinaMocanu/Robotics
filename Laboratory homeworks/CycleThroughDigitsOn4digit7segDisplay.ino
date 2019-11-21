@@ -63,7 +63,7 @@ byte digitMatrix[noOfDigits][segSize - 1] = {
 };
 
 void displayNumber(byte digit) {
-  for (int i = 0; i < segSize - 1; i++){ 
+  for (int i = 0; i < segSize - 1; i++) { 
     digitalWrite(segments[i], digitMatrix[digit][i]);
   }
     
@@ -71,26 +71,27 @@ void displayNumber(byte digit) {
 }
 
 void showDigit(int num) {
-  for (int i = 0; i < noOfDisplays; i++){ 
+  for (int i = 0; i < noOfDisplays; i++) { 
     digitalWrite(digits[i], HIGH);
   }
   
   digitalWrite(digits[num], LOW);
 }
 
-void showDigits(){
-  for (int i = 0; i < noOfDisplays; i++){
+void showDigits() {
+  for (int i = 0; i < noOfDisplays; i++) {
     showDigit(i);
     displayNumber(displayValue[i]);
-    if (i == displayNo)
-      digitalWrite(segments[segSize-1], HIGH); 
+    if (i == displayNo) {
+      digitalWrite(segments[segSize-1], HIGH);
+    }
     delay (5);
   }
 }
 
 /// enables cycling through the 4 digits on the Ox axis
-void Xmove(){
-  if (xValue > maxThreshold && joyMoved == false){
+void Xmove() {
+  if (xValue > maxThreshold && joyMoved == false) {
     if (displayNo > 0) {
       displayNo--;
     } else {
@@ -114,7 +115,7 @@ void Xmove(){
 }
 
 /// enables cycling through the digits on Oy axis
-void Ymove(){
+void Ymove() {
   digit = displayValue[displayNo];
   if (yValue < minThreshold && joyMoved == false) {
     if (digit > 0) {
@@ -142,15 +143,15 @@ void Ymove(){
 }
 
 void setup(){
-  for (int i = 0; i < segSize; i++){
+  for (int i = 0; i < segSize; i++) {
     pinMode(segments[i], OUTPUT);
   }
   
-  for (int i = 0; i < noOfDisplays; i++){
+  for (int i = 0; i < noOfDisplays; i++) {
     pinMode(digits[i], OUTPUT);
   }
 
-  for (int i = 0; i < noOfDisplays; i++){
+  for (int i = 0; i < noOfDisplays; i++) {
     displayValue[i] = 0;
   }
   
@@ -161,7 +162,7 @@ void setup(){
 void loop(){
   swState = digitalRead(pinSW); 
   if (swState != lastSwState) {
-   if (swState == LOW ){
+   if (swState == LOW ) {
      checkSwState = !checkSwState;
    }
   }
@@ -173,7 +174,7 @@ void loop(){
   }
 
   yValue = analogRead(pinY);
-  if (checkSwState){
+  if (checkSwState) {
     Ymove();
   }
    
