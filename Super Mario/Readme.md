@@ -4,7 +4,7 @@ The game is a simpler, pixelated version of Super Mario Bros, where Mario is act
 
 Requirements:
 
-      - Score: Initially, the score is zero, and a certain value will be added to it each five seconds. As the difficulty level increases, so will the value added to the score, and successfully shooting obstacles will also bring extra points. Therefore, the more minutes have passed, the faster the score will increase.
+      - Score: Initially, the score is zero, and a certain value will be added to it each five seconds. As the speed increases, so will the value added to the score, and successfully shooting obstacles will also bring extra points. Therefore, the more minutes have passed, the faster the score will increase.
       
       - Progress in difficulty: With every minute, the speed increases, meaning that the obstacles and shapes displayed on the matrix will be scrolled faster. For example, the shapes displayed will be shifted each 400 milliseconds initially. Gradually, the amount of time between the shifts will decrease, implying an increase in the speed of the game.
       
