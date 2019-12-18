@@ -10,8 +10,7 @@ T-Rex Run!
   Level 2:  this is where it gets tricky. The obstacles are now wider, so jumping too early will cost you a life. Moreover, there are               obstacles that you can only avoid by not jumping.
   Level 3 : this last level is your chance to get a higher score. Now you may encounter two obstacles dangerously close to each other,               so  make sure to jump a bit earlier so you can land between the two obstacles and then jump right back up. The gap between               two stretches of ground is also wider, so don't rush it: jump when you've reached the edge.
   
-  -In the "Settings" option, you can enter your name in the serial. Make sure you don't ignore this feature, as you wouldn't want to reach high score as "unknown"!
-  if the first level seems like a piece of cake, you can skip it. Just choose a starting level using the horizontal axis of the joystick.
+  - In the "Settings" option, you can enter your name in the serial. Make sure you don't ignore this feature, as you wouldn't want to reach high score as "unknown"! If the first level seems like a piece of cake, you can skip it. Just choose a starting level using the horizontal axis of the joystick.
   - In "Info" section you can find details about the game: creater, name of the game and link to the source code on github. Use the horizontal axis of the joystick to see all info.
   -Check the "Highscore" section to see the best score and who owns it. 
   
