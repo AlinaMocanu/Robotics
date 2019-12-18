@@ -17,7 +17,7 @@ T-Rex Run!
 
 - In "Info" section you can find details about the game: creater, name of the game and link to the source code on github. Use the horizontal axis of the joystick to see all info.
 
--Check the "Highscore" section to see the best score and who owns it. 
+- Check the "Highscore" section to see the best score and who owns it. 
   
   
   NOTE! Browsing through the menu is done exclusively with the joystick. Use the Oy axis to browse through items of the menu/submenus and the press button to enter/exit a submenu.
