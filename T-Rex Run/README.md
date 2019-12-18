@@ -1,4 +1,5 @@
 T-Rex Run!
+
  The game is a replica of the Chrome Dinosaur Game, where the dinosaur is actually a dot that has to avoid the incoming obstacles in order to reach high score. There are three levels which differ through the difficulty of avoiding the obstacles. By making your way out through the three levels, the purpose is to reach high score. The more obstacles have been avoided, the higher the score will be.
  
  How to play?
