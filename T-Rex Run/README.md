@@ -6,7 +6,7 @@ T-Rex Run!
  
   By default, the dot moves further. When reaching an obstacle or a discontinuous stretch of ground, help him jump over them by pressing the pushbutton on the left side of the matrix. Jumping too late or too early will not help him at all, and one of his three lives will be lost.
   
--Lives: The dot has three lives. Each time a life is lost, a sad face will be displayed and a short warning sound will be played. Still, the game will resume shortly after that and the speed and score won't be altered, so watch out! The number of lives will be updated and displayed on the lcd.
+- Lives: The dot has three lives. Each time a life is lost, a sad face will be displayed and a short warning sound will be played. Still, the game will resume shortly after that and the speed and score won't be altered, so watch out! The number of lives will be updated and displayed on the lcd.
 
 - Game end: The game will actually end under one single condition: there are no lives left, as the main purpose is reaching greater high score each time. Once the game ends, the sad face will be displayed again and a sound will announce the end of the game. Keep an eye on the lcd, as the final details of the game will be displayed and also, you will find out if you made it to high score. From here, you have two options: either play again, or go to the main menu. 
 
