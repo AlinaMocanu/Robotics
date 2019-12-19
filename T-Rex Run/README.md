@@ -37,5 +37,7 @@ T-Rex Run!
     - potentiometer
     - capacitors
     - resistors(220 ohms, 5k ohms, 10k ohms)
+    
+    <img src="desktop/matrix.jpg" alt="My cool logo"/>
   
   
