@@ -38,6 +38,6 @@ T-Rex Run!
     - capacitors
     - resistors(220 ohms, 5k ohms, 10k ohms)
     
-    <img src="/Desktop/matrix.jpg" alt="hardware"/>
+    ![](images/matrix.jpg)
   
   
