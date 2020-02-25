@@ -11,4 +11,4 @@ Hardware components:
     - 2x104nF capacitor
     
     ![LED Matrix]()
-    ![Connections]()
+    ![Connections](https://github.com/AlinaMocanu/Robotics/blob/master/Spectrum%20Analyzer/Spectrum.jpg)
