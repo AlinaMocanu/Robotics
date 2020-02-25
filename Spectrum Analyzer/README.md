@@ -12,3 +12,4 @@ Hardware components:
     
     ![LED Matrix]()
     ![Connections](https://github.com/AlinaMocanu/Robotics/blob/master/Spectrum%20Analyzer/Spectrum.jpg)
+    
