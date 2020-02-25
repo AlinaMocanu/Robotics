@@ -10,5 +10,5 @@ Hardware components:
     - jack to jack cable
     - 2x104nF capacitor
     
-    ![Connections](https://github.com/AlinaMocanu/Robotics/blob/master/Spectrum%20Analyzer/Spectrum.jpg)
+     <img src="" width="350" title="hover text">
     
