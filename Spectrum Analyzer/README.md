@@ -31,6 +31,7 @@ Hardware components:
    Used tutorials:
    
    Building the LED matrix: https://www.youtube.com/watch?v=d4LSNHRiBDE&t=0s
+   
    Transforming the LED matrix into spectrum  analyzer: https://create.arduino.cc/projecthub/Shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51
    
    The second tutorial offers a thorough explanation of how a spectrum analyzer works, exemplifying on 4 8x8 led matrixes. From there on, i had to understand it so i can use it for my 10x10 matrix of LED strips.
