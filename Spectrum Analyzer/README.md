@@ -10,5 +10,5 @@ Hardware components:
     - jack to jack cable
     - 2x104nF capacitor
     
-     <img src="https://github.com/AlinaMocanu/Robotics/blob/master/Spectrum%20Analyzer/Spectrum.jpg" width="350" title="LED Matrix">
+     <img src="images/Matrix.jpg" width="350" title="LED Matrix">
     
