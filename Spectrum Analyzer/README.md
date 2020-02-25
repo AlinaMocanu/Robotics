@@ -26,7 +26,7 @@ Hardware components:
    ![Connections](images/Spectrum.jpg)
    
    
-   link to youtube video: https://www.youtube.com/watch?v=-4pBHaacJkg&t=7s
+   link to youtube video: https://www.youtube.com/watch?v=-4pBHaacJkg&t=0s
    
    
     
