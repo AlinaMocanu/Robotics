@@ -10,6 +10,6 @@ Hardware components:
     - jack to jack cable
     - 2x104nF capacitor
     
-     ![.](images/matrixSpectrum.jpg)
-     ![.](images/Spectrum.jpg)
+     ![LED Matrix](images/matrixSpectrum.jpg)
+     ![Connections](images/Spectrum.jpg)
     
