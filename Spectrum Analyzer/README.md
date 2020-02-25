@@ -11,5 +11,8 @@ Hardware components:
     - 2x104nF capacitor
     
      ![LED Matrix](images/matrixSpectrum.jpg)
+     
+     
+     
      ![Connections](images/Spectrum.jpg)
     
