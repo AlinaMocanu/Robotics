@@ -24,4 +24,5 @@ Hardware components:
      
      
    ![Connections](images/Spectrum.jpg)
+   
     
